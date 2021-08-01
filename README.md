@@ -30,7 +30,7 @@ on in main.py.
 The algorithm is visualized by PyGame.
 
 ### How to use the demo
-The script is written in Python version 3.9. In order to run the script, you may need to install the pygame
+The script is written in Python version 3.9. In order to run the script, you may need to install the pygame module
 from pip. I recommended creating a virtual environment to run the script as well.
 
 In the demo, red represents nodes in the closed set, green denotes those in the open set, and the purple path
